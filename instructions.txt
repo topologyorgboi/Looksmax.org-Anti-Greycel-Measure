@@ -1,0 +1,15 @@
+put all of them in the same folder obviously.
+
+go to chrome://extensions
+
+enable developer mode.
+
+press "load unpacked"
+
+find the folder
+
+enter
+
+enable the extension.
+
+i skidded this from chatgpt. i do not know html or js.
